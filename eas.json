@@ -1,0 +1,9 @@
+{
+  "build": {
+    "production": {
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://your-live-cloud-api-url.com"
+      }
+    }
+  }
+}
